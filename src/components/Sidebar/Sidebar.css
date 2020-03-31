@@ -1,0 +1,29 @@
+.create-first-revard{
+    margin-top: 10px;
+    border-bottom: 2px solid #e8e0e0;
+}
+    .setup-description{
+        font-size: 14px;
+        font-family: monospace;
+        color: #909090;
+        margin: auto;
+    }
+    .revard-description{
+         font-weight: bold;
+         font-size: 15px;
+    }
+    .progress-barr{
+        margin-top: 12px;
+        height: 4px !important;
+    
+    }
+     .active{
+        border-left: 5px solid blue
+    }
+    .Avatar {
+        width: 27px;
+        height: 27px;
+        border-radius: 5px;
+        border: solid 0.5px rgba(36, 38, 45, 0.05);
+      }
+

@@ -1,0 +1,45 @@
+.main{
+    height: 100%;
+    .left-section{
+        position: relative;
+        .logo{
+         position: absolute;
+         color: white;
+        }
+        .image-content{
+            position: absolute;
+            top: 175px;
+            width: 57%;
+            left: 103px;
+            color: white;
+        }
+        .main-image-container{
+                width:100%;
+        }
+    }.right-section{
+        width: 100%;
+        .container{
+            width: 100%;
+            align-content: center;
+            .sign-in-btn{
+                
+             
+            }
+             .login-control-btn{
+                float: right;
+            }
+            .form-container{
+                margin-top: 68px;
+                .heading-content{
+
+                }
+                .sign-In-form{
+    
+                }
+                
+            }
+            
+        }
+    }
+   
+}

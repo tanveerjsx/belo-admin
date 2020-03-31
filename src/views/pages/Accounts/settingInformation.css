@@ -1,0 +1,72 @@
+
+  
+  /* remove border radius for the tab */
+  
+/* Style the tab */
+.tab {
+    overflow: hidden;
+    border: none !important;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab button:hover {
+  color: rgb(0, 0, 0);
+  }
+  
+  /* Create an active/current tablink class */
+  .tab button {
+    /* border-bottom: 2px solid black; */
+    color: #a1a39e;
+    box-shadow: 0 0 0 0 white !important;
+
+  }
+  
+  /* Style the tab content */
+  .tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border-top: none;
+  }
+  /* .tablinks{
+      padding-left:10px
+  } */
+  select{
+    box-shadow: rgb(218, 218, 218) 0px 0px 3px;
+    font-weight: bold;
+    font-size: 15px;
+    height: 34px;
+    background: url(http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png) no-repeat right;
+    -webkit-appearance: none;
+    background-color: white;
+    background-position-x: 293px;
+    background-size: 12px auto;
+  }
+  .update-info {
+    border-radius: 5px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1), 0 3px 5px 0 rgba(0, 0, 0, 0.15) !important;
+    background-color: #586df7 !important;
+    font-family: Montserrat !important;
+    font-size: 13px !important;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff !important;
+  }
+
+
+ 

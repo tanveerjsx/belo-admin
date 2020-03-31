@@ -1,0 +1,130 @@
+.reward-line{
+    opacity: 0.5;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    color: #171937;
+}
+.Create-a-new-reward {
+    width: 239px;
+    height: 20px;
+    font-family: Montserrat;
+    font-size: 17.5px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.23;
+    letter-spacing: normal;
+    color: #171937;
+  }
+  .input-reward {
+    width: 301px !important;
+    height: 45px !important;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1) !important;
+    border: solid 0.5px rgba(0, 0, 0, 0.1) !important;
+    background-color: #ffffff !important;
+  }
+    .Reward-name {
+        width: 70% !important;
+        height: 45px !important;
+        opacity: 0.5;
+        font-family: Montserrat;
+        font-size: 13px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: normal;
+        color: #171937;
+        padding-left: 18px;
+      }
+      .Stamps-required {
+        width: 30% !important;
+        height: 45px !important;
+        border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+        border: solid 0.5px rgba(0, 0, 0, 0.1);
+        background-color: #ffffff !important;
+      }
+      .Stamps-required-text {
+        padding: 14px;
+        width: 54.5px;
+        height: 12px;
+        opacity: 0.5;
+        font-family: Montserrat !important;
+        font-size: 9.5px !important;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.85;
+        letter-spacing: normal;
+        color: #171937 !important;
+      }
+      .input-price {
+        width: 410px !important;
+        height: 70px !important;
+        border-radius: 5px !important;
+        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1) !important;
+        border: solid 0.5px rgba(0, 0, 0, 0.1) !important;
+        background-color: #ffffff !important;
+      }
+      .prize-text {
+        opacity: 0.5;
+        font-family: Montserrat;
+        font-size: 12.5px !important;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: normal;
+        color: #171937;
+        padding-bottom: 31px !important;
+        padding-left: 18px !important;
+      }
+      .reward-button{
+        width: 152px;
+        height: 40.5px;
+        border-radius: 5px;
+        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1), 0 3px 5px 0 rgba(0, 0, 0, 0.15) !important;
+        background-color: #586df7 !important;
+        font-family: Montserrat;
+        font-size: 10px !important;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: normal;
+        text-align: center;
+        color: #ffffff;
+      }
+      .reward-table{
+        border-radius: 3px;
+        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1) !important;
+        background-color: #ffffff !important;
+      }
+      .table-head{
+      font-family: Montserrat !important;
+      font-size: 12.5px !important;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: normal;
+      color: #1f2532 !important;
+      }
+      .table-body-content {
+        font-family: Montserrat ;
+        font-size: 11.5px !important;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #44515b;
+      }

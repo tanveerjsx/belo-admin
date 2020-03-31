@@ -1,0 +1,6 @@
+{
+    "APPSOCKETURL": "ws://192.168.1.112:3000/app",
+    "JANUSSOCKETURL": "ws://192.168.1.112:3000/janus",
+    "APIURL": "https://bello-backend.herokuapp.com/api"
+}
+ 

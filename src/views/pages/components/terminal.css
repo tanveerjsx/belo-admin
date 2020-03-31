@@ -1,0 +1,100 @@
+/* .shadow {
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow:         3px 3px 5px 6px #ccc;
+    font-size: 14px;
+    height: 38px;
+    font-family: monospace;
+   
+  } */
+  .no-terminal-line{
+    opacity: 0.5 !important;
+    font-family: Montserrat;
+    font-size: 14px !important;
+    font-weight: 500 ;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    color: #171937 !important;
+}
+.Create-a-new-terminal {
+    width: 239px !important;
+    height: 20px !important;
+    font-family: Montserrat;
+    font-size: 15.5px !important;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.23;
+    letter-spacing: normal;
+    color: #171937 !important;
+  }
+  .input-terminal {
+    width: 260px !important;
+    height: 52px !important;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1) !important;
+    border: solid 0.5px rgba(0, 0, 0, 0.1) !important;
+    background-color: #ffffff !important;
+    opacity: 0.5;
+    font-family: Montserrat;
+    font-size: 13px !important;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    color: #171937 !important;
+    padding-left: 18px;
+  }
+      .password-required {
+        width: 110px !important;
+        height: 52px !important;
+        border-radius: 5px;
+        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+        border: solid 0.5px rgba(0, 0, 0, 0.1);
+        background-color: #ffffff !important;
+        opacity: 0.5;
+        font-family: Montserrat !important;
+        font-size: 9.5px !important;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.85;
+        letter-spacing: normal;
+        color: #171937 !important;
+      }
+      .generate-terminal-button {
+        width: 152px;
+        height: 40.5px;
+        border-radius: 5px;
+        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1), 0 3px 5px 0 rgba(0, 0, 0, 0.15) !important;
+        background-color: #586df7 !important;
+        font-family: Montserrat;
+        font-size: 10px !important;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: normal;
+        text-align: center;
+        color: #ffffff;
+      }
+      .generate-terminal {
+        width: 152px;
+        height: 40.5px;
+        border-radius: 5px;
+        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1), 0 3px 5px 0 rgba(0, 0, 0, 0.15) !important;
+        background-color: #586df7 !important;
+        font-family: Montserrat;
+        font-size: 10px !important;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: normal;
+        text-align: center;
+        color: #ffffff;
+      }
+   

@@ -1,0 +1,19 @@
+p{
+
+    opacity: 0.5;
+    font-family: Montserrat;
+    font-size: 13px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    color: #171937;
+    word-spacing: 2px;
+    font-weight: 600;
+}
+h6{
+    font-family:Montserrat;
+     color:#171937;
+     font-weight: bold;
+}

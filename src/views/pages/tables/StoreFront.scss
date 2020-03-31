@@ -1,0 +1,128 @@
+* {
+    font-family: arial;
+  }
+  .Storefront-information {
+    font-family: Montserrat !important;
+    font-size: 18px !important;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.23;
+    letter-spacing: normal;
+    color: #171937 !important;
+  }
+  .basic-info{
+  opacity: 0.5;
+  font-family: Montserrat;
+  font-size: 13px !important;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: #171937;
+  }
+  
+  /** float container */
+  .float-container {
+    width: 450px !important;
+    height: 45px !important;
+    border-radius: 5px !important;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1) !important;
+    border: solid 0.5px rgba(0, 0, 0, 0.1) !important;
+    background-color: #ffffff !important;
+    
+    input { 
+      border: none;
+      font-size: 15px;
+      outline: 0;
+      padding: 16px 0 10px;    
+      font-weight:bold;
+      width: 100%;
+      font-family: Montserrat;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.33;
+      letter-spacing: normal;
+      color: #171937;
+    }
+  
+    label {
+      font-family: monospace;
+      color: #b0b7b7;
+      font-size: 14px;
+      position: absolute;
+      transform-origin: top left;
+      transform: translate(0, 16px) scale(1); 
+      transition: all .1s ease-in-out;
+            
+    }
+    
+    /** active label */
+    &.active {
+      label {
+        //move the x coordinate and reduce size
+        transform: translate(0, 4px) scale(.75);
+      }
+    }
+  }
+  .input-handler{
+    display: flex;
+
+    .upload-btn-wrapper {
+      position: relative;
+      overflow: hidden;
+      display: inline-block;
+      .store-logo-text{
+        font-size: 11px;
+        margin-top: 14px;
+        font-family: Montserrat;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: normal;
+        color: #171937 !important;
+      }
+    }
+    
+    .btn {
+    border-radius: 5px !important;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1) !important;
+    border: solid 0.5px rgba(0, 0, 0, 0.1) !important;
+    background-color: #ffffff !important;
+    padding: 8px 20px;
+    height: 57px;
+    width: 63Px;
+    margin-top: 10px;
+    border-radius: 8px !important;
+    font-size: 20px;
+    font-weight: bold;
+    }
+    
+    .upload-btn-wrapper input[type=file] {
+      font-size: 100px;
+      position: absolute;
+      left: 0;
+      top: 0;
+      opacity: 0;
+    }
+  }
+  .update-btn{
+    margin-top: 23px;
+   }
+   .Storefront {
+    width: 175px !important;
+    height: 42.5px !important;
+    border-radius: 5px !important;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1), 0 3px 5px 0 rgba(0, 0, 0, 0.15) !important;
+    background-color: #586df7 !important;
+    font-family: Montserrat !important;
+    font-size: 13px !important;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff !important;
+  }
